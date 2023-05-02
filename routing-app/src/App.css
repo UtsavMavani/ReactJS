@@ -1,0 +1,12 @@
+.active {
+  color: orange !important;
+  font-weight: 500;
+}
+
+.error {
+  color: red;
+}
+
+h1 {
+  color: red;
+}
